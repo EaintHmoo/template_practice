@@ -1,0 +1,43 @@
+.nav1 ul li a{
+    color:white;
+}
+.nav1 ul li a:hover{
+    color:yellow;
+}
+.nav1 ul{
+    margin-left:200px;
+}
+a{
+    color:white;
+}
+a:hover{
+    color:yellow;
+}
+.nav1 ul>li{
+    padding-left: 20px;
+}
+.line{
+    width: 90px;
+    border: 2px solid #dceb09;
+   text-align: center;
+}
+.banner{
+    background:url("images/other-slide.jpg");
+    color:white;
+};
+.image{
+    margin-left: 20px;
+}
+.tablist{
+    background-color: darkgoldenrod;
+}
+
+.tablist>li>a{
+   color:black;
+}
+.curriculum div button{
+    background-color: lightblue;
+}
+.ft{
+    background-color: hsl(197, 80%, 20%);
+}

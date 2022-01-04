@@ -1,0 +1,45 @@
+.nav1>div>ul>li>a{
+    color:white;
+}
+.nav1>div>ul>li> a:hover{
+    color:lightgray;
+}
+.nav2>div>div>ul>li>a{
+    font-size: 13px;
+    margin-right: 10px;
+}
+.nav2{
+    background-color: #424347;
+}
+.banner{
+    background:url("images/ygn_banner.jpg") no-repeat;
+}
+.banner-content{
+    font-size: 130px;
+    color:gray;
+    letter-spacing: 10px;
+
+}
+.box{
+    background-color: darkgoldenrod;
+}
+.box ul li{
+    list-style: none;
+}
+.box ul li{
+    color:white;
+    font-size: 17px;
+}
+.box ul li a:hover{
+    color:gray;
+}
+.box ul li a{
+    font-size: 15px;
+}
+.ft-div{
+    background-color: #565764;
+    color:white;
+}
+i{
+    padding-right: 2px;
+}
